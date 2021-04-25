@@ -111,8 +111,8 @@ $ pip3 install -U pip
    ```bash
    $ python3
    >>> import torchvision
->>> torchvision.__version__
+   >>> torchvision.__version__
    '0.8.1'
    ```
-   
+
 
